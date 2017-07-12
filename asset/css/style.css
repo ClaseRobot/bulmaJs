@@ -1,0 +1,12 @@
+html {
+  overflow:hidden;
+}
+.laptop {
+  height: 48px;
+  width: 55px;
+}
+
+.titulo {
+  font-family: 'Shrikhand', cursive;
+  font-size: 60px;
+}
